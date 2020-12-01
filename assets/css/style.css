@@ -1,0 +1,14 @@
+body{
+    overflow-y: hidden;
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+    color: green;
+}
+
+.warning{
+    color: red;
+}
+
+.row button{
+    margin-top: 70vh;
+}
